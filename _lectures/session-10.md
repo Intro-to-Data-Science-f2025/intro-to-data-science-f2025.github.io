@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-10T09:00:00
+date: 2025-11-17T09:00:00
 title: "Session 10"
 tldr: "Released materials for session 10 (enrolled students only)."
 links:
