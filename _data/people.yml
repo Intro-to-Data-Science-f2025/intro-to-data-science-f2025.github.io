@@ -1,4 +1,4 @@
-# declared in the .github/dsl-course.yml `people:` block.
+# declared in the `people:` block.
 
 instructor:
   name: "Prof. Dr. Simon Munzert"
